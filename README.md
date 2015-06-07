@@ -1,7 +1,7 @@
 # Exploratory Data Analysis
 ### Repository for the Coursera course project Exploratory Data Analysis.
 
-#### Instructions to reproduce the plots for course project 1
+#### Instructions to fully reproduce the plots for course project 1
 
 To run this R scripts, please follow the instructions below:
 
