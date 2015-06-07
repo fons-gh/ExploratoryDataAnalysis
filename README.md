@@ -1,8 +1,7 @@
 # Exploratory Data Analysis
+### Repository for the Coursera course project Exploratory Data Analysis.
 
-## Repository for the Coursera course project Exploratory Data Analysis.
-
-### Instructions for course project 1 to reproduce the plots
+#### Instructions to reproduce the plots for course project 1
 
 To run this script, please do the following:
 
@@ -10,3 +9,4 @@ To run this script, please do the following:
  * Download the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
  * Extract the data into an ./Data subdirectory
  * Run the R scripts
+
